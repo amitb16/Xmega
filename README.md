@@ -1,7 +1,13 @@
 🌐 Web Development Internship Projects
+
+
+
+
 Welcome to the repository for my Web Development Internship projects at XMEGA Company. This repository showcases the tasks I completed during the internship, highlighting my skills in HTML, CSS, and JavaScript.
 
 Tasks Overview
+
+
 Task 1: ✨ Creating a Landing Page
 For this task, I developed a landing page using HTML and CSS. The page is designed to be visually appealing and responsive, demonstrating my understanding of fundamental web development concepts.
 
