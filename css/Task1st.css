@@ -1,0 +1,72 @@
+
+   
+    h1{
+       font-style: italic;
+       color: rgb(49, 44, 2);
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     text-align: center;
+    }
+    h2{
+        font-style: italic;
+       color: rgb(246, 201, 24);
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-decoration: solid;
+       text-align: 90px;
+    }
+    p{
+        font-style: bold;
+        color: rgb(234, 97, 97);
+        background-color: 50, rgba(95, 90, 90, 0.973);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       
+    }
+    select{
+        font-style: italic;
+        color: rgb(31, 58, 14);
+        background-color: antiquewhite;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        box-shadow: 5ch;
+      border-radius: 7ch;
+      border-color: chartreuse;
+}
+    
+    body {
+  background-image: url("payment.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  backface-visibility: visible;
+  background-size: cover;
+}
+input{
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(7, 99, 26);
+    box-shadow: 5ch;
+    border-radius: 7ch;
+    border-color: chartreuse;
+}
+fieldset{
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(222, 233, 62);
+    box-shadow: 5cap;
+    border-radius: 7ch;
+    border-color: chartreuse;
+    
+}
+textarea{
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(7, 99, 26);
+    box-shadow: 5cap;
+    border-radius: 3ch;
+    border-color: chartreuse;
+    text-align: start;
+    text-size-adjust: 40px;
+}
+hr{
+    text-decoration: dashed;
+    color: black;
+}
+
+    
